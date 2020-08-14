@@ -1,5 +1,10 @@
 .FormControl{
-    display: flex;
-   justify-content:center;
+  display: flex;
+
+    width: 10%;
+    justify-content:center;
     align-content: center;
+     margin-bottom: 30px !important;
+
+  
 }

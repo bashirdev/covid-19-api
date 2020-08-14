@@ -1,10 +1,19 @@
 body{
     background-color: rgb(255, 145, 0);
+
 }
 .container{
- 
+
   align-items: center;
   justify-content: center;
   
 
+}
+
+.image{
+
+  width: 370px;
+  margin-top: 50px;
+ 
+  align-items: center;
 }
